@@ -1,0 +1,10 @@
+{
+  "AllowedHosts": "*",
+  "ClientId": "Your Service Principal Id",
+  "WorkSpace": "Your Workspace",
+  "LakeHouse": "Your LakeHouse",
+  "FileLocation": "File location of your csv file including the filename",
+  "Table": "tablename",
+  "Directory": "Directory on lakehouse",
+  "Mode": "Append"
+}
